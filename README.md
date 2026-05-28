@@ -14,6 +14,15 @@ http://82.157.103.97:8081/
 
 （2）V2.0功能：AI辅助面试，AI一面；已完成,，该模块完整代码请fork：https://github.com/FreeAiHR/FreeAiHR
 
+# 系统截图
+
+<img width="1799" height="666" alt="image" src="https://github.com/user-attachments/assets/98f68c6a-7cd0-4500-a5ec-32b881e124e7" />
+<img width="1819" height="837" alt="image" src="https://github.com/user-attachments/assets/332de7d8-78c0-4e88-a0bc-66e6b75adc6f" />
+<img width="1810" height="638" alt="image" src="https://github.com/user-attachments/assets/e8c667af-0446-4032-ba42-e7fe10bdb2e4" />
+<img width="1816" height="423" alt="image" src="https://github.com/user-attachments/assets/ca4e25d9-9b11-4b34-bc99-45518d005291" />
+<img width="1819" height="872" alt="image" src="https://github.com/user-attachments/assets/198c84ba-c84d-4559-868d-63f82a7d0a7a" />
+<img width="1823" height="568" alt="image" src="https://github.com/user-attachments/assets/b7809ef6-4bcb-46bb-bc37-5750ca1c0bf4" />
+
 
 🤝 联系客服小编
 
