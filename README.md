@@ -3,9 +3,9 @@ FreeAiHR-HR360，hr360 度评价，360 度绩效考核，360 度评估系统，3
 
 # Demo链接如下
 
-http://82.157.103.97:8081/
+链接：http://82.157.103.97:8081/
 
-ID: admin@example.com
+账户名: admin@example.com
 
 密码: admin123456
 
