@@ -11,7 +11,7 @@ FreeAiHR-HR360，hr360 度评价，360 度绩效考核，360 度评估系统，3
 
 # 代码整理中，请稍后。
 
-# Roadmap 路线图
+# Roadmap 路线图 (欢迎多多star，fork，提出需求或Bug)
 
 （1）V1.0功能：企业自助发布简历，求职者可以直接投递；已完成，还在迭代升级，该模块完整代码请fork：https://github.com/FreeAiHR/FreeAiHR-PostJobs
 
