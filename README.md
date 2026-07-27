@@ -37,7 +37,8 @@ FreeAiHR-HR360，hr360 度评价，360 度绩效考核，360 度评估系统，3
 
 点击 # Star后，入群讨论：
 
-<img width="206.2" height="288.0" alt="704140e8d32ed70fee9e8108a22311dd" src="https://github.com/user-attachments/assets/24118997-d00e-48f5-8e6e-fd2a9a6ab837" />
+<img width="442.5" height="744" alt="a59661d23876d0ec815462ca1ca420bf" src="https://github.com/user-attachments/assets/a118723d-adb8-413d-b7c0-74c09453b31b" />
+
 
 扫码添加客服小编微信
 
