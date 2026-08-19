@@ -21,7 +21,7 @@ FreeAiHR-HR360，hr360 度评价，360 度绩效考核，360 度评估系统，3
 
 （4）V4.0功能：AI培训、AI考核，已完成，还在迭代升级，该模块完整代码请fork：https://github.com/FreeAiHR/FreeAiHR-Learn
 
-
+## 目前工作：将上述1-4的功能，整合为一个统一系统！
 
 # 系统截图
 
